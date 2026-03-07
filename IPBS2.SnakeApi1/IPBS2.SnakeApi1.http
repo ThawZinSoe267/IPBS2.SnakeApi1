@@ -1,0 +1,6 @@
+@IPBS2.SnakeApi1_HostAddress = http://localhost:5190
+
+GET {{IPBS2.SnakeApi1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

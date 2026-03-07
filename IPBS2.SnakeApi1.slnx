@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IPBS2.SnakeApi.Database/IPBS2.SnakeApi.Database.csproj" />
+  <Project Path="IPBS2.SnakeApi1/IPBS2.SnakeApi1.csproj" />
+</Solution>
